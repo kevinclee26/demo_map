@@ -1,0 +1,1 @@
+d3.json('http://localhost:5000/data').then((data)=>console.log(data));
